@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.icons{
+  cursor: pointer;
+}
+
+.image{
+  cursor: pointer;
+}
+
+.darkMode{
+  background-color: #121212 ;
+  color: #fff;
+}
